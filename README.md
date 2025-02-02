@@ -23,7 +23,6 @@ Developer and Hacker
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIGYA0205&layout=compact&theme=omni)
 <br>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHIGYA0205&show_icons=true&theme=blueberry)
-<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHIGYA0205&theme=highcontrast)
 <br>
 
