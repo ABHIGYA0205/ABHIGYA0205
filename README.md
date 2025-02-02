@@ -1,4 +1,4 @@
-![logo](https://github.com/ABHIGYA0205/ABHIGYA0205/blob/main/banner.png)
+![logo](https://github.com/ABHIGYA0205/ABHIGYA0205/blob/main/bannerFinal.png)
 Hi !<img src="https://www.mockofun.com/wp-content/uploads/2024/10/giphy-10.gif" style="height: 30px; width: auto;">
 My name is Abhigya sachdeva
 ========================================================================================================================================
