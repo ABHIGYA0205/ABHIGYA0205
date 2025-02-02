@@ -5,7 +5,7 @@ My name is Abhigya sachdeva
 
 Developer and Hacker
 --------------------
-<img align="right" alt="Hacking" width="450" height='400' src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif">
+<img align="right" alt="Hacking" width="350" height='300' src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigya0205&label=Profile%20views&color=0e75b6&style=flat" alt="abhigya0205" /> </p>
 
 
