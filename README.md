@@ -61,15 +61,29 @@
 
 
 
- <h4 align='center'>🌍 I'm based in INDIA</h4>
+ <h4 align='center'>
+   <img src="https://th-thumbnailer.cdn-si-edu.com/Bate3rAcTWXOSkHDgsVRQX1Uo6M=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/bf/17/bf1740cb-d313-41a8-8a30-bb24dac99e40/dscovrepicmoontransitfull.gif" style="height: 30px; width: auto; " alt="spiderman" /> 
+   I'm based in INDIA
+ </h4>
 
- <h4 align='center'>✉️ You can contact me at <a href="mailto:abhigyasachdeva2005@gmail.com">abhigyasachdeva2005@gmail.com</a></h4>
+ <h4 align='center'>
+   <img src="https://i.pinimg.com/originals/b2/79/64/b27964d9e8d7d3d5e444a032ad51a2be.gif" style="height: 30px; width: auto; " alt="spiderman" /> 
+   You can contact me at <a href="mailto:abhigyasachdeva2005@gmail.com">abhigyasachdeva2005@gmail.com</a>
+ </h4>
 
- <h4 align='center'>🧠 I'm learning React, Linux, Networking</h4>
+ <h4 align='center'>
+   <img src="https://i.pinimg.com/originals/3b/dc/ab/3bdcab2937d0f583ba8ed16e9bd6463f.gif" style="height: 30px; width: auto; " alt="spiderman" /> 
+  I'm learning React, Linux, Networking
+ </h4>
 
- <h4 align='center'>🤝 I'm open to collaborating on anything</h4>
+ <h4 align='center'>
+   <img src="https://i.makeagif.com/media/10-20-2015/PalTAH.gif" style="height: 30px; width: auto; " alt="spiderman" /> 
+    I'm open to collaborating on anything
+ </h4>
 
- <h4 align='center'>🕸️ I'm secretly Superman...but don't tell anyone</h4>
+ <h4 align='center'>
+   <img src="https://www.icegif.com/wp-content/uploads/2024/06/spider-man-icegif-2.gif" style="height: 30px; width: auto; " alt="spiderman" /> 
+    I'm secretly Superman...but don't tell anyone</h4>
 
   <img src="https://blog.randombits.host/content/images/2022/07/Screenshot-from-2022-07-17-10-41-31.png" alt="Profile Image" />
 </div>
