@@ -73,7 +73,7 @@
 
  <h4 align='center'>
    <img src="https://i.pinimg.com/originals/3b/dc/ab/3bdcab2937d0f583ba8ed16e9bd6463f.gif" style="height: 30px; width: auto; " alt="spiderman" /> 
-  I'm learning React, Linux, Networking
+  I'm learning React, Linux, Networking,Ethical Hacking
  </h4>
 
  <h4 align='center'>
