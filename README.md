@@ -1,4 +1,4 @@
-<img src="https://github.com/ABHIGYA0205/ABHIGYA0205/blob/main/bannerFinal.png" alt="logo" width="100%" />
+<img src="https://github.com/ABHIGYA0205/ABHIGYA0205/blob/main/banner .png" alt="logo" width="100%" />
   <h1 align ='center'>Hi! <img src="https://www.mockofun.com/wp-content/uploads/2024/10/giphy-10.gif" style="height: 30px; width: auto; " alt="wave" /> My name is Abhigya Sachdeva => Developer and Hacker</h1>
   <img align="right" height=250"  src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif"  />
 
