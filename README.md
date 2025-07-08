@@ -83,7 +83,7 @@
 
  <h4 align='center'>
    <img src="https://www.icegif.com/wp-content/uploads/2024/06/spider-man-icegif-2.gif" style="height: 30px; width: auto; " alt="spiderman" /> 
-    I'm secretly Superman...but don't tell anyone</h4>
+    I'm secretly Spiderman...but don't tell anyone</h4>
 
   <img src="https://blog.randombits.host/content/images/2022/07/Screenshot-from-2022-07-17-10-41-31.png" alt="Profile Image" />
 </div>
