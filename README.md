@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/ABHIGYA0205/ABHIGYA0205/blob/main/banner%20.png" alt="banner" width="100%" />
+<img src="banner.png" alt="banner" width="100%" />
 
 <h1 align="center">Hi! <img src="https://www.mockofun.com/wp-content/uploads/2024/10/giphy-10.gif" height="30px" alt="wave" /> My name is Abhigya Sachdeva — Developer & Hacker</h1>
 
@@ -24,13 +24,20 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="Figma logo" />
   <img width="12"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="Git logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+
 </div>
 
 <h2 align="center">🌐 Connect with Me</h2>
 <div align="center">
   <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord" /></a>
   <a href="mailto:abhigyasachdeva2005@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/abhigya-sachdeva" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abhigya-sachdeva-2a260a386/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" /></a>
   <a href="https://wa.me/your_number" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&style=for-the-badge" height="35" alt="Whatsapp" /></a>
   <a href="https://app.slack.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&color=4A154B&style=for-the-badge" height="35" alt="Slack" /></a>
   <a href="https://tryhackme.com" target="_blank"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&color=88cc14&style=for-the-badge" height="35" alt="TryHackMe" /></a>
