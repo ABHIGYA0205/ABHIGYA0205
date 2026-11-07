@@ -1,7 +1,7 @@
 <img src="banner.png" alt="Abhigya Sachdeva — banner" width="100%" />
 
 <h1 align="center">Abhigya Sachdeva</h1>
-<h3 align="center">B.E. Student · Full-Stack TypeScript & Python · AI + Cybersecurity</h3>
+<h3 align="center">BTech Student</h3>
 
 <p align="center">
   Passionate about development and ethical hacking. I build secure, real-time web applications — and learn how to break &amp; defend them.
@@ -9,8 +9,8 @@
 
 <!-- Icons: Lucide (via Iconify), single colour #7aa2f7, verified loading 2026-11-02 -->
 
-- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237aa2f7&width=16&height=16" alt="" /> **B.E. at Newton School of Technology, Rishihood University (2025–2028)** · CGPA **8.56/10**
-- <img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%237aa2f7&width=16&height=16" alt="" /> **Open-source contributor to [GreedyBear](https://github.com/GreedyBear-Project/GreedyBear)** — a threat intelligence platform for honeypot (T-Pot) data: [4 merged PRs](https://github.com/GreedyBear-Project/GreedyBear/pulls?q=is%3Apr+author%3AABHIGYA0205+is%3Amerged) covering a TanStack Table v9 migration, cached API responses, and feed-statistics fixes — plus an [open security PR](https://github.com/GreedyBear-Project/GreedyBear/pull/1810) scoping feed share tokens to their owners, fixing an issue I reported
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237aa2f7&width=16&height=16" alt="" /> **BTech. at Newton School of Technology, Rishihood University (2025–2028)** · CGPA **8.56/10**
+- <img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%237aa2f7&width=16&height=16" alt="" /> **Open-source contributor to [GreedyBear](https://github.com/GreedyBear-Project/GreedyBear)** — a threat intelligence platform for honeypot (T-Pot) data: [5 merged PRs](https://github.com/GreedyBear-Project/GreedyBear/pulls?q=is%3Apr+author%3AABHIGYA0205+is%3Amerged) covering a TanStack Table v9 migration, cached API responses, and feed-statistics fixes — plus an [open security PR](https://github.com/GreedyBear-Project/GreedyBear/pull/1810) scoping feed share tokens to their owners, fixing an issue I reported
 - <img src="https://api.iconify.design/lucide/award.svg?color=%237aa2f7&width=16&height=16" alt="" /> **Advent of Cyber 2025 — TryHackMe** ([certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BLUZ6KOOIQ.pdf)): threat detection, networking, cryptography, web security &amp; incident response
 - <img src="https://api.iconify.design/lucide/handshake.svg?color=%237aa2f7&width=16&height=16" alt="" /> Open to **open-source collaboration, freelance projects, and internships**
 - <img src="https://api.iconify.design/lucide/globe.svg?color=%237aa2f7&width=16&height=16" alt="" /> Portfolio: **[linux-portfolio-taupe.vercel.app](https://linux-portfolio-taupe.vercel.app/)** · <img src="https://api.iconify.design/lucide/map-pin.svg?color=%237aa2f7&width=16&height=16" alt="" /> Sonipat, Haryana, India
